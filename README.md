@@ -1,1 +1,1 @@
-# Lexly
+Lexly – AI contractgenerator. Draai lokaal of upload naar Vercel.
